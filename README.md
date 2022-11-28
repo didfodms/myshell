@@ -1,2 +1,2 @@
-# myshell
-Created My Own Shell :)
+# Welcome!
+> Welcome to Reyang's myshell ! :)
